@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "13517426519",
+    "firebase_url": "https://lojaflutter-1bafd.firebaseio.com",
+    "project_id": "lojaflutter-1bafd",
+    "storage_bucket": "lojaflutter-1bafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13517426519:android:8678d0cea47cd433",
+        "android_client_info": {
+          "package_name": "br.com.ribeiro.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13517426519-pvnrirk6lm88n1h8ifm6t35lnsqd00rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqc0DXDwhfAT7RtFKXGO8jxZxVCAzF30Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13517426519-pvnrirk6lm88n1h8ifm6t35lnsqd00rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13517426519:android:e146f551f1df49aed93812",
+        "android_client_info": {
+          "package_name": "com.brfProductions.loja_virtual_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13517426519-81mglcf84b6qgueaobap8h1qou8in00m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brfProductions.loja_virtual_flutter",
+            "certificate_hash": "04df46b61570cacfc5e28e0eea70df8f0832e3ee"
+          }
+        },
+        {
+          "client_id": "13517426519-pvnrirk6lm88n1h8ifm6t35lnsqd00rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqc0DXDwhfAT7RtFKXGO8jxZxVCAzF30Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13517426519-pvnrirk6lm88n1h8ifm6t35lnsqd00rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
